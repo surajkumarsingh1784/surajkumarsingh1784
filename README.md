@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Suraj%20Kumar%20Singh&fontSize=40&fontColor=ffffff)
+[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)](https://surajkumarsingh.io)
+
 
 <h1 align="center">Hi 👋, I'm Suraj Kumar Singh</h1>
 <h3 align="center">Full Stack Developer (MERN)</h3>
@@ -44,15 +45,17 @@
 
 ## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkumarsingh1784&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=surajkumarsingh1784&layout=compact&hide_border=true" />
 </p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surajkumarsingh1784&row=2&column=4&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=surajkumarsingh1784&theme=flat&no-frame=true" />
 </p>
+
 
 ---
 
