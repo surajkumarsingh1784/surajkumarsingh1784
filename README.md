@@ -1,6 +1,6 @@
 <!-- Banner -->
+[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)](https://surajkumarsingh.io)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:141e30,100:243b55\&height=200\&section=header\&text=Suraj%20Kumar%20Singh\&fontSize=40\&fontColor=ffffff)
 
 <h1 align="center">Hi 👋, I'm Suraj Kumar Singh</h1>
 <h3 align="center">Full Stack Developer (MERN) | React & Node.js Enthusiast</h3>
