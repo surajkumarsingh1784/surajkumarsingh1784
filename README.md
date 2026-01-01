@@ -1,76 +1,90 @@
-<!-- Banner GIF -->
+<!-- 🚀 Banner -->
+
 [![MasterHead](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)](https://surajkumarsingh.io)
 
 <h1 align="center">Hi 👋, I'm Suraj Kumar Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | Passionate about building meaningful products</h3>
+<h3 align="center">🚀 Full Stack Developer (MERN) | Building scalable & meaningful products</h3>
 
----
-
-### 🧩 About Me
-- 💻 Full Stack Developer (MERN)
-- 📚 Currently learning **DSA & System Design**
-- 🤝 Actively contributing on Open Source
-- 🔗 Love collaborating on meaningful projects
-- ✉️ Reach me at: **surajsingh1509005@gmail.com**
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/suraj-kumar-singh-74893a251" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<p align="center">
+  <a href="https://linkedin.com/in/suraj-kumar-singh-74893a251" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/surajsingh1784" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40" />
+  &nbsp;
+  <a href="mailto:surajsingh1509005@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="36" />
   </a>
-  <a href="mailto:surajsingh1509005@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="40" />
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/surajsingh1784" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="36" />
   </a>
 </p>
 
 ---
 
-### ⚙️ Languages & Tools:
+## 🧩 About Me
+
+* 💻 Full Stack Developer with strong **MERN** experience
+* 📚 Currently learning **Advanced DSA & System Design**
+* 🤝 Active **Open Source** contributor
+* 🧠 Passionate about clean architecture & performance
+* ✉️ Reach me at **[surajsingh1509005@gmail.com](mailto:surajsingh1509005@gmail.com)**
+
+---
+
+## ⚙️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,cpp,java,python,git,github,aws,figma,postman,vscode,redux,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,cpp,java,python,redux,git,github,aws,docker,figma,postman,vscode" />
 </p>
 
 ---
 
-### 📚 Currently Working On
-- Building production-level projects using **Next.js & MongoDB**
-- Practicing **Advanced DSA**
-- Learning **System Design fundamentals**
+## 📌 Featured Projects
+
+* 🛒 **MegaMart** – Full-stack e-commerce platform (MERN)
+* 🧠 **MindWell** – Mental health awareness & consultation platform
+* 🤖 **Jarvis** – JavaScript-based voice assistant
 
 ---
 
-### 🎯 My Goal
-> To become a software developer who not only builds scalable applications but also solves real-world problems with clean code.
+## 📚 Currently Working On
+
+* 🚀 Production-level apps using **Next.js & MongoDB**
+* 🧮 **Advanced DSA** (arrays, recursion, DP, trees)
+* 🏗️ **System Design fundamentals**
 
 ---
 
-### 📈 GitHub Stats:
+## 🎯 Career Goal
+
+> To become a software engineer who builds scalable systems and solves real-world problems with clean, maintainable code.
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajkumarsingh1784&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surajkumarsingh1784&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajkumarsingh1784&theme=transparent&hide_border=true" height="160" />
 </p>
 
 ---
 
-### 🔥 Most Used Languages:
+## 🔥 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkumarsingh1784&layout=compact&theme=transparent&langs_count=8&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkumarsingh1784&layout=compact&theme=transparent&langs_count=8&hide_border=true&count_private=true&cache_seconds=86400" height="180" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surajkumarsingh1784&theme=onedark&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=surajkumarsingh1784&theme=darkhub&no-frame=true&row=2&column=4" />
 </p>
 
 ---
 
-> ✅ **Let’s build the future — one line of code at a time!** ✨
-
+### ✨ Let’s build the future — one line of code at a time!
 
