@@ -1,64 +1,83 @@
 <!-- Banner -->
-[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)](https://surajkumarsingh.io)
 
+![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:141e30,100:243b55\&height=200\&section=header\&text=Suraj%20Kumar%20Singh\&fontSize=40\&fontColor=ffffff)
 
 <h1 align="center">Hi 👋, I'm Suraj Kumar Singh</h1>
-<h3 align="center">Full Stack Developer (MERN)</h3>
+<h3 align="center">Full Stack Developer (MERN) | React & Node.js Enthusiast</h3>
 
 ---
 
 ## 🧩 About Me
-- 💻 Full Stack Developer (MERN)
-- 📚 Learning DSA & System Design
-- 🤝 Open Source Contributor
-- ✉️ surajsingh1509005@gmail.com
+
+* 💻 Full Stack Developer with strong **MERN stack** experience
+* 🎓 B.Tech CSE @ **VIT Bhopal** (CGPA: 7.99)
+* 🧠 Focused on **DSA, System Design & Scalable Web Apps**
+* 🤝 Open to internships, collaborations & open‑source work
+* ✉️ **[surajsingh1509005@gmail.com](mailto:surajsingh1509005@gmail.com)**
 
 ---
 
-## 🌐 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/suraj-kumar-singh-74893a251">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:surajsingh1509005@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="40" />
-  </a>
-</p>
+## 💼 Experience
+
+### Web Developer Intern — *Maximilian Globus* (Oct 2025 – Present)
+
+* Built & deployed a **multi‑page MERN digital service platform**
+* Created **15+ reusable React components** improving development speed
+* Implemented **Node.js + Express backend** with optimized MongoDB schemas
+* Improved performance using lazy loading & code splitting (⬆️ 25%)
+
+---
+
+## 🚀 Projects
+
+### 🛒 MegaMart
+
+*React, Node.js, Express, MongoDB, Socket.io*
+
+* Full‑stack e‑commerce platform with real‑time inventory
+* JWT authentication & optimized APIs (⬆️ 40% performance)
+* Product recommendations, cart & order tracking
+
+### 🧠 MindWell – Mental Wellness Platform
+
+*React, Node.js, MongoDB, Socket.io*
+
+* Real‑time collaborative mental wellness platform
+* Secure auth + optimized CRUD operations (⬆️ 40%)
+
+### 🤖 JARVIS Personal Assistant
+
+*React, JavaScript, Web Speech API*
+
+* Voice‑controlled assistant with TTS & speech recognition
+* Improved responsiveness by 40%
 
 ---
 
 ## ⚙️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,java,python,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,cpp,java,python,git,github,aws,docker,tailwind,postman,vscode" />
 </p>
+
+---
+
+## 🏅 Achievements & Certifications
+
+* 🟢 AWS Cloud Practitioner Essentials (Coursera)
+* 🟢 MongoDB Database Admin Path
+* 🟢 MERN Full Stack Developer – SmartBridge
+* 🟢 Solved **250+ DSA problems** (GFG & LeetCode)
 
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=surajkumarsingh1784&show_icons=true&hide_border=true" />
 </p>
 
-
 ---
 
-## 🔥 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=surajkumarsingh1784&layout=compact&hide_border=true" />
-</p>
-
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surajkumarsingh1784&theme=flat&no-frame=true" />
-</p>
-
-
-
----
-
-**Let’s build something meaningful 🚀**
+### ✨ Let’s build scalable systems & meaningful products together 🚀
 
