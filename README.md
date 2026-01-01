@@ -1,6 +1,6 @@
-<!-- 🚀 Banner -->
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Suraj%20Kumar%20Singh&fontSize=40&fontColor=ffffff)
 
-[![MasterHead](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)](https://surajkumarsingh.io)
 
 <h1 align="center">Hi 👋, I'm Suraj Kumar Singh</h1>
 <h3 align="center">🚀 Full Stack Developer (MERN) | Building scalable & meaningful products</h3>
