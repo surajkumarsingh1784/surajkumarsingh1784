@@ -36,8 +36,9 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajkumarsingh1784&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=surajkumarsingh1784&show_icons=true&hide_border=true" />
 </p>
+
 
 ---
 
