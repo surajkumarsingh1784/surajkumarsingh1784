@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Suraj%20Kumar%20Singh&fontSize=40&fontColor=ffffff)
+[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://surajkumarsingh.io)
+
 
 
 <h1 align="center">Hi 👋, I'm Suraj Kumar Singh</h1>
