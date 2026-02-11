@@ -10,7 +10,7 @@
 ## 🧩 About Me
 
 * 💻 Full Stack Developer with strong **MERN stack** experience
-* 🎓 B.Tech CSE @ **VIT Bhopal** (CGPA: 7.99)
+* 🎓 B.Tech CSE @ **VIT Bhopal** (CGPA: 8.01)
 * 🧠 Focused on **DSA, System Design & Scalable Web Apps**
 * 🤝 Open to internships, collaborations & open‑source work
 * ✉️ **[surajsingh1509005@gmail.com](mailto:surajsingh1509005@gmail.com)**
